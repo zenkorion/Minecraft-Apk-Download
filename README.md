@@ -9,7 +9,7 @@ Welcome! Are you a Minecraft lover who is tired of dealing with annoying ads, po
 ## 📸 Screenshots / Banner
 
 <!-- Replace the URL inside the parenthesis with your own image link -->
-![Minecraft Banner](https://images.unsplash.com/photo-1607988795691-3d0147b43231?q=80&w=1000&auto=format&fit=crop) 
+![Minecraft Banner]([https://images.unsplash.com/photo-1607988795691-3d0147b43231?q=80&w=1000&auto=format&fit=crop](https://canva.link/htkq5ymruwymj0x)) 
 *(💡 Pro-Tip: You can upload your own custom banner or screenshot to GitHub and update this image link).*
 
 ---
