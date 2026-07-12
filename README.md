@@ -10,7 +10,6 @@ Welcome! Are you a Minecraft lover who is tired of dealing with annoying ads, po
 
 <!-- Replace the URL inside the parenthesis with your own image link -->
 ![Minecraft Banner](images/banner%20mcpe.jpg)
-*(💡 Pro-Tip: You can upload your own custom banner or screenshot to GitHub and update this image link).*
 
 ---
 
