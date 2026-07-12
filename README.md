@@ -31,7 +31,7 @@ Downloading the game is simple! Just follow these easy steps:
 2. Choose the latest version of the `.apk` file.
 3. Click to download and install.
 
-📦 **[Click Here for]( https://zenkorion.github.io/Minecraft-Apk-Download/ )**
+## 📦 **[Click here to go to the website]( https://zenkorion.github.io/Minecraft-Apk-Download/ )**
 
 ---
 
